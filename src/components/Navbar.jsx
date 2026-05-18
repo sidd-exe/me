@@ -24,7 +24,7 @@ export default function Navbar() {
 
     const navItems = [
         { label: "Main", id: "main" },
-        { label: "About Me", id: "about" },
+        { label: "About", id: "about" },
         { label: "Projects", id: "projects" },
         { label: "Education", id: "education" },
     ];
